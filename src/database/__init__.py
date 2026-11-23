@@ -1,0 +1,1 @@
+"""SQLite persistence package for task management."""

@@ -1,0 +1,5 @@
+database:
+  path: data/tasks.db
+
+logging:
+  file: logs/failure.log

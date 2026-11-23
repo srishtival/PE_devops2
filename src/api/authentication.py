@@ -1,0 +1,1 @@
+"""Authentication integrations are not enabled for the task API."""
